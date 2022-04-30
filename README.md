@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CookieBytes2
-Collections of useful scripts
+- Collections of useful scripts I have created.
 
 <!---
 CookieBytes2/CookieBytes2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
