@@ -3,7 +3,7 @@ Script:  File System Walker
 Author:  Chet Hosmer
 Edited by: Rodney Arnold
 Date:    March 2022
-Version: .51
+Version: 1.0
 Purpose: Extracts information about files useful in forensic examinations.
 '''
 ''' IMPORT STANDARD LIBRARIES '''
